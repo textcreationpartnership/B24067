@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heads of the additional bill for paving, cleansing, &amp;c. London.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24067</idno><idno type="EEBO-CITATION">99882465</idno>
+  <idno type="VID">194041</idno>
+  <idno type="EEBO-PROQUEST">2264201816</idno>
+  
+            <idno type="STC">Wing H1291B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[238]</idno>
+            <idno type="PROQUEST">ocm99882465</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882465e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194041)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[239])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heads of the additional bill for paving, cleansing, &amp;c. London.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Contains two columns, the first a "Preamble," the second "Reasons.".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">City planning --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Roads --  Maintenance and repair --  England --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  Social conditions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:194041:1"/>
+            <head>Heads of the Additional Bill for Paving, Cleansing, <hi>&amp;c. London.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Reasons.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Preamble.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>THat the former Laws have not proved effectual by reason of the <hi>Miscarriages</hi> of <hi>Scavengers,</hi> and <hi>Combination</hi> of <hi>Paviors,</hi> &amp;c.</cell>
+                     <cell>THe Punishment of Scavengers Paviours, and other Persons offending against the former Act, was only by <hi>Indictment;</hi> the Prosecution whereof being <hi>chargeable,</hi> and the Proceedings <hi>dilatory,</hi> and the Fines imposed after conviction being not applyed to the Prosecutor, discouraged the Prosecution, and thereby the Offenders escape Punishment. The Paviours have <hi>ingrossed</hi> most of the <hi>Stone-Quarries,</hi> and thereby inhance the Prices of Stone, and are now endeavouring to obtain a <hi>Patent</hi> of <hi>Incorporation;</hi> so that <hi>none shall work</hi> but in such <hi>manner,</hi> and at such <hi>Rates</hi> as they shall agree and appoint.</cell>
+                  </row>
+                  <row>
+                     <cell>AND That Owners of Tofts of Ground and empty Houses have <hi>refused</hi> to <hi>Pave</hi> or to <hi>pay</hi> the <hi>Assessments</hi> thereon.</cell>
+                     <cell>By the former Act, Owners of Tofts and empty Houses are made liable to be Rated, but the Recovery is by <hi>Distress,</hi> which can never be found there, the Moneys cannot be Collected, and either the Ground before those Interests must be <hi>Ʋnpaved,</hi> and so <hi>dan<g ref="char:EOLhyphen"/>gerous</hi> to <hi>Passengers,</hi> and <hi>mischievous</hi> to <hi>Trade,</hi> or Persons laying out Money for the same, can no way be re-imbursed, great Sums being yet in Arrear and unpaid to divers persons upon that Accompt.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">The Bill Enacts,</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>That from and after the <gap reason="illegible: omitted in print" resp="#oxf" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> day of <gap reason="illegible: omitted in print" resp="#oxf" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 1674. every Inhabitant or Housholder do pave before his own Shop, House, or other his Interest, and so for the future to maintain the same at his own cost and charges</cell>
+                     <cell>The Owners of Tofts and uninhabited Houses neglecting to make good the <hi>Pavements</hi> lying before the same, and refusing to pay any Assessment towards that Work, put a necessity on the Commissioners to make a general Assessment on the Inhabitants for amending and maintaining all the Pavements of the City and Liberties in a publick way: but for as much as convenient Provision is made by this Bill for paving the dead Interests, and for that the Inhabitants are now generally desirous to be at liberty, (each person by and for himself) to amend and maintain the Pavements lying before their respective Interests, it's desired this Clause (being omitted in the former Act) may now be allowed, they taking care to preserve the Levels and Currents of Water, which with great care and pains of the Commissioners of Sewers, have been designed and ascertained, and from thenceforth shall be no way liable to be rated for Pitching or Paving.</cell>
+                  </row>
+                  <row>
+                     <cell>That from and after the said <gap reason="illegible: omitted in print" resp="#oxf" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> day of <gap reason="illegible: omitted in print" resp="#oxf" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 1674. every Inhabitant or Housholder do sweep before his own Shop, House or other his Interest, three times in a Week at the least.</cell>
+                     <cell>Without the requiring of this, the Streets will lie so foul and dirty as will greatly annoy Passengers, prejudice Trade, and con<g ref="char:EOLhyphen"/>stantly fill and choak the Sewers to great mischief and charge.</cell>
+                  </row>
+                  <row>
+                     <cell>That the Commissioners may reform and punish <hi>Incroachments</hi> and <hi>Annoyances</hi> in the Streets and Common Passages.</cell>
+                     <cell>Divers persons do take upon them to make out Bulks, Stalls, <hi>&amp;c.</hi> laying Material and Rubbish in the Streets and Common Passages, to the obstruction and annoyance of Passage, and choaking of the Sewers; which may be best inquired into, and reformend by the aforesaid Commissioners, who by two former Acts of this Parliament are directed to take care of the Pavements and cleansing of the Streets and Sewers.</cell>
+                  </row>
+                  <row>
+                     <cell>That Offenders <hi>refusing</hi> to appear may be taken by <hi>Warrant</hi> from a Justice of Peace, <hi>&amp;c.</hi> and Fines recovered by <hi>Distress</hi> or <hi>Indict<g ref="char:EOLhyphen"/>ment.</hi>
+                     </cell>
+                     <cell>In the Execution of the former Act, it hath been found that several Persons, Rakers and others, offending against the Act, and several Scavengers that have Collected and Deteined several <hi>Sums of Money</hi> in their hands due to the Rakers have been duly summoned by the Commissioners Officers to appear and shew cause, <hi>&amp;c.</hi> and have refused or neglected to appear, and before the Ses<g ref="char:EOLhyphen"/>sions did sit, or hearing of the cause, the Parties have failed and gone away, to the <hi>loss</hi> of divers Sums; and without some Coer<g ref="char:EOLhyphen"/>cive Power more than the bare Summons of an Officer, there cannot be any great Regulation expected.</cell>
+                  </row>
+                  <row>
+                     <cell>That all <hi>Fines</hi> to be imposed by the Com<g ref="char:EOLhyphen"/>missioners or Justices at the Sessions, be em<g ref="char:EOLhyphen"/>ployed in the works of <hi>Paving,</hi> &amp;c. and other incident Charges.</cell>
+                     <cell>By the former Act the Fines to be imposed by the Commissioners are appointed to be applyed towards the Works of Paving, Cleansing, <hi>&amp;c.</hi> But there being no Power of re-imbursing or gratifying the Informer or Prosecutor, there is no Incouragement to any to inform and prosecute, and so little or no Reformation.</cell>
+                  </row>
+                  <row>
+                     <cell>That all Constables and other Officers <hi>assist</hi> in the <hi>execution</hi> of the Powers, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>The Constables Duty is in all cases to endeavour the keeping of the <hi>Peace,</hi> and no more is hereby <hi>intended</hi> and <hi>designed;</hi> but some Constables will not think themselves concerned unless they are particularly mentioned: whereby Justice is oftentimes delayed and affronted.</cell>
+                  </row>
+                  <row>
+                     <cell>That <hi>Surveyors</hi> or <hi>Supervisors</hi> be appointed for the Streets.</cell>
+                     <cell>These may be Persons who have <hi>good Judgment</hi> in Paving Materials and Workmanship, and may see the Work constantly and well performed, especially before Tofts of Ground and empty Houses: And may also give notice, and require the Amendments of defective Pavements before inhabited Houses, when one Neighbour is unwilling to complain or inform against another.</cell>
+                  </row>
+                  <row>
+                     <cell>That where Scavengers, or other per<g ref="char:EOLhyphen"/>sons are sued, they may plead the <hi>General Issue;</hi> and if it be wrongfully, then to recover <hi>Double Costs,</hi> &amp;c.</cell>
+                     <cell>This Clause is usual in Acts of Parliament, but by the omission of this in the former Act, some <hi>Litigious Persons</hi> have been incouraged to bring <hi>vexatious Suits</hi> against <hi>Scavengers</hi> and others imployed and acting in pursuance of Act: And in a matter of eight or nine shillings, by reason of pleading <hi>the Act specially,</hi> very great Sums have been expended, to the great <hi>discouragement</hi> of persons doing their Duty.</cell>
+                  </row>
+                  <row>
+                     <cell>That any Person <hi>skilsul</hi> in Paving may be employed therein.</cell>
+                     <cell>Several of the <hi>Paviors</hi> in <hi>London</hi> have ingrossed most of the <hi>Stone-Quarries,</hi> and will neither afford <hi>Stones,</hi> or perform <hi>Workman<g ref="char:EOLhyphen"/>ship</hi> at any reasonable Rates; nor will they suffer <hi>other Persons</hi> (not of their Brotherhood) though never so skilful, to be im<g ref="char:EOLhyphen"/>ployed, vexing and discouraging them with Suits and Proceedings at Law, and (as is before mentioned) they are indeavouring to obtain a Patent of Incorporation.</cell>
+                  </row>
+                  <row>
+                     <cell>That for better enabling the Major, and Commonalty, and Citizens of <hi>London</hi> to go through the building of Churches, gi<g ref="char:EOLhyphen"/>ving satisfaction for ground lost by making that Wharff or Key on the North-side the Ri<g ref="char:EOLhyphen"/>ver of <hi>Thames, and otherwise;</hi> Paving before Tofts of Ground and uninhabited Houses, and other Publick works, the Duty or Im<g ref="char:EOLhyphen"/>position upon <hi>Coals</hi> to be continued for <gap reason="illegible: omitted in print" resp="#oxf" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> years after the year 1687. to which time the same is already granted.</cell>
+                     <cell>The Revenue arising by the Imposition upon Coles, was <hi>lessened</hi> the Receipts the two last years above twelve thousand pounds.
+<p>Upon a just <gap reason="illegible" resp="#oxf" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>alculation of the Receipts that either have or may be received by that <hi>Imposition</hi> which is to be applyed for the Re<g ref="char:EOLhyphen"/>building of Churches, and a reasonable estimate made of the charge of Rebuilding thereof, it will cost above 100000 <hi>l.</hi> more than that Revenue will amount to to Rebuild the Parish Churches, besides the Rebuilding the Cathedral Church of St. <hi>Paul.</hi>
+                        </p>
+                        <p>Upon a just Calculation of the Receipts that either have or may be received by that <hi>Imposition,</hi> which is to be applyed for giving Satisfaction for Ground, and for <hi>other</hi> purposes in the former Acts mentioned, and upon a reasonable Estimate of the Charges, it doth plainly appear that the <hi>principal charge</hi> besides Interest, will amount to above 160000 <hi>l.</hi> more than the Receipt will amount unto for the term that is yet to come, besides the great <hi>Sums of Money</hi> that must necessarily be expended for the re-imbursing of Moneys already advanced, and which must hereafter be expended for Paving and Cleansing before Tofts and uninhabited Houses, being above four thousand in number, which Works can never be effected without a further <hi>Additional Term.</hi>
+                        </p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That the <hi>Owners</hi> of Tofts of Ground or empty Houses shall not be compelled to <hi>Pave</hi> or <hi>Cleanse,</hi> or be <hi>Rated</hi> for the same, during such time as the same shall be un<g ref="char:EOLhyphen"/>built or uninhabited.</cell>
+                     <cell>There are great Numbers of Tofts of Ground and empty Houses which must be taken care for, as to Paving and Cleansing be<g ref="char:EOLhyphen"/>fore the same; the want of which hath occasioned the not taking the same, either for Building or Inhabiting. And yet it is con<g ref="char:EOLhyphen"/>ceived hard and severe, that those Persons concern'd (most of which are <hi>Country Gentlemen</hi> that have lost the benefit of their Inheritance for above seven years, and many expended considerable <hi>Sums of Money</hi> in Building, without receiving any profit or benefit thereby) should nevertheless be liable to make good the Pavements lying before the same.</cell>
+                  </row>
+                  <row>
+                     <cell>That no other or greater Salary, Allow<g ref="char:EOLhyphen"/>ance, or Reward, be given or made for col<g ref="char:EOLhyphen"/>lecting, receiving, or paying the <hi>Coal</hi> Duty, then what is appointed by the former Act of Parliament.</cell>
+                     <cell>Some scruples having been made, whether the allowance of 10 <hi>s. per cent.</hi> mentioned in the former Act relating to the Duty upon <hi>Coals,</hi> was intended to include as well the Collector, as the Receiver and Payer of the Money, it is desired the same may be now setled and ascertained in this manner.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
